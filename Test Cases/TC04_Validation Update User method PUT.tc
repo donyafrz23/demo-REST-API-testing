@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Validation Update User method PUT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b84f1b48-897c-41c4-886f-3e118027d2ac</testCaseGuid>
+</TestCaseEntity>
